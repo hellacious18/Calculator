@@ -34,32 +34,32 @@
                 android:id="@+id/AC"
                 android:text="AC"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
-                android:layout_margin="5dp" />
+                android:padding="32dp"
+                android:textSize="20dp"
+                android:layout_margin="5dp"/>
 
             <Button
                 android:id="@+id/bracesOpen"
                 android:text="("
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/bracesClose"
                 android:text=")"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/modulo"
                 android:text="%"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
         </TableRow>
 
@@ -71,32 +71,32 @@
                 android:id="@+id/b7"
                 android:text="7"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b8"
                 android:text="8"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b9"
                 android:text="9"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/divide"
                 android:text="/"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
         </TableRow>
 
@@ -108,32 +108,32 @@
                 android:id="@+id/b4"
                 android:text="4"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b5"
                 android:text="5"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b6"
                 android:text="6"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/multiply"
                 android:text="*"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
         </TableRow>
 
@@ -145,32 +145,32 @@
                 android:id="@+id/b1"
                 android:text="1"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b2"
                 android:text="2"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/b3"
                 android:text="3"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/subtract"
                 android:text="_"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
         </TableRow>
 
@@ -182,24 +182,24 @@
                 android:id="@+id/b0"
                 android:text="0"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/dot"
                 android:text="."
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
 
             <Button
                 android:id="@+id/equal"
                 android:text="="
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp"
                 />
 
@@ -207,10 +207,10 @@
                 android:id="@+id/add"
                 android:text="+"
                 android:layout_weight="1"
-                android:padding="35dp"
-                android:textSize="15dp"
+                android:padding="32dp"
+                android:textSize="20dp"
                 android:layout_margin="5dp" />
+
         </TableRow>
     </TableLayout>
-
 </LinearLayout>
